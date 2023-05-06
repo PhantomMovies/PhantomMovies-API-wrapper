@@ -1,6 +1,6 @@
 {
   "name": "phantom-movies",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Official PhantomMovies.com node.js API Wrapper",
   "main": "index.js",
   "scripts": {
