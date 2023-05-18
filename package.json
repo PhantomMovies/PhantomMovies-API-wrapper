@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/PhantomMovies/PhantomMovies-API-wrapper/issues"
   },
-  "homepage": "https://github.com/PhantomMovies/PhantomMovies-API-wrapper#readme",
+  "homepage": "https://developers.phantommovies.com",
   "dependencies": {
     "axios": "^1.4.0"
   }
